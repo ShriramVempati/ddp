@@ -1,0 +1,9 @@
+Future Scope of Work
+
+Statistical Integrated Vehicle Health Monitoring System
+More sophisticated models can be developed for other turbochargers like a dual-stage turbocharger and other components
+Engine can be compartmentalized and statistical models can learn the working of engine components
+A network can be made using all these models to get a complete Health Monitoring System for the engine making it easy for monitoring and analysis of the working of an engine
+Statistical Mean Stress Correction 
+Statistical methods can be used to estimate the S-N curve for different materials with high cycle fatigue, endurance limit, multiple slopes in S-N curve, and other peculiar properties. 
+These statistical methods help engineers study fatigue without deep knowledge on material properties, especially new alloys.   
